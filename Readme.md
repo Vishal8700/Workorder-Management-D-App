@@ -1,4 +1,4 @@
-# PS Chosen for Internal Hackathon 
+# Developing a Work Order Management DApp for a Government College using Sign Protocol and Avail.
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
