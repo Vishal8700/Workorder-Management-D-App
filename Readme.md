@@ -4,18 +4,18 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM SPARK SQUARD
+**Team Name:** SPARK SQUARD
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** Devanshu Raj [@Redd-hope](https://github.com/Redd-hope)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - Simran - 2022UEA6616 - [@simran1devloper](https://github.com/simran1devloper)
+- **MEMBER_2** - Devanshu Raj- 2022UCI8048 - [@Redd-hope](https://github.com/Redd-hope)
+- **MEMBER_3** - Keshav Anand Verma- 2022UCI8046 - [@codes-by-keshav](https://github.com/codes-by-keshav)
+- **MEMBER_4** - VISHAL KUMAR - 2022UCI8071 - [@Vishal8700](https://github.com/Vishal8700)
+- **MEMBER_5** - Ishita Srivastava - 2022UCI8059 - [@oi-taa](https://github.com/oi-taa)
+- **MEMBER_6** - Somya Aggarwal  - 2022UEA6597  - [@SomyaAggarwal1209](https://github.com/SomyaAggarwal1209)
 
 ## Project Links
 
