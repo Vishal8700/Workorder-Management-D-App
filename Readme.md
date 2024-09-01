@@ -4,7 +4,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** TEAM SPARK SQUARD
 
 **Team Leader:** [@USERNAME](https://github.com/USERNAME)
 
