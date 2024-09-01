@@ -20,7 +20,7 @@ This README provides an overview of the project, including team details, relevan
 ## Project Links
 
 - **Internal Presentation:** [Internal Presentation][(URL TO PPT UPLOADED TO GITHUB)](https://github.com/Vishal8700/Workorder-Management-D-App/blob/master/files/PPT-Internal%20Spark.pdf)
-- **Final SIH Presentation:** [Final SIH Presentation][(URL TO PPT UPLOADED TO GITHUB)https://github.com/Vishal8700/Workorder-Management-D-App/blob/master/files/EcoChain%20Waste%20Management.pptx](https://github.com/Vishal8700/Workorder-Management-D-App/blob/master/files/EcoChain%20Waste%20Management.pptx)
+- **Final SIH Presentation:** [Final SIH Presentation][(https://github.com/Vishal8700/Workorder-Management-D-App/blob/master/files/EcoChain%20Waste%20Management.pptx)]
 -  [Final SIH Presentation https://github.com/Vishal8700/Workorder-Management-D-App/blob/master/files/PPT%20SparkSquad.pdf
 -                                                        
 - **Video Demonstration:** [Watch Video][(UNLISTED YOUTUBE LINK)](https://youtu.be/8ynddSOKx1k)
